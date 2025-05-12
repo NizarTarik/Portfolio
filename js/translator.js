@@ -60,7 +60,7 @@ export const translator = {
         documentPdf: 'Dokumente ',
         nav: {
             home: 'Startseite',
-            about: 'über mich',
+            about: 'Über mich',
         },
         sideBar: {
             sideBarText: 'Ein leidenschaftlicher Full-Stack Webentwickler auf dem Vormarsch',
