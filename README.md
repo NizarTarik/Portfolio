@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nizar Tarik!
 
 🎯 **A Full Stack Web Developer**  
-🌐 [My Website](https://NizarTarik.com)
+🌐 [My Website](https://nizartarik.github.io/NizarTarik/)
 
 ---
 
