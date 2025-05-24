@@ -109,6 +109,6 @@ document.querySelector('select').addEventListener('change', (event) => {
 
 // Default to DE
 document.addEventListener('DOMContentLoaded', () => {
-    updateLanguageText(translator.DE);
-    document.querySelector('select').value = 'DE';
+    updateLanguageText(translator.EN);
+    document.querySelector('select').value = 'EN';
 });
